@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Decors
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 58bab9493cbd1f842a25b74b77151776, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4012ae30b86873e4f80eea244710b5a8, type: 3}
+  - {fileID: 21300000, guid: 9b098b41314927c44a48bc0eaaa96c56, type: 3}
+  - {fileID: 21300000, guid: d8de1b23a0ecd364cac96749f807770f, type: 3}
+  - {fileID: 21300000, guid: 4f1c2c538c546d64f807aa7fb7e28851, type: 3}
+  - {fileID: 21300000, guid: 0a433463470c909449f917a36a28ef33, type: 3}
+  - {fileID: 21300000, guid: 52135dd447c88aa479640a787ce022ad, type: 3}
+  - {fileID: 21300000, guid: 939f2145223c2204fa33cebce11c36c2, type: 3}
+  - {fileID: 21300000, guid: 4c77d5452518ae648b21980f2043111a, type: 3}
+  - {fileID: 21300000, guid: a1cc5606b196ad74083adbc1f218de59, type: 3}
+  - {fileID: 21300000, guid: 8e1c1e26f2c150d40a77a549e21a1775, type: 3}
+  - {fileID: 21300000, guid: 004075a8fcd7dab40a4804b1af1d9a4b, type: 3}
+  - {fileID: 21300000, guid: a24c3699c04688a408affed110e9b907, type: 3}
+  - {fileID: 21300000, guid: 2440d4f913cc5fa40b932d5869582789, type: 3}
+  - {fileID: 21300000, guid: b5bc41cb8cc229d42b7d07716ec3b21e, type: 3}
+  - {fileID: 21300000, guid: a8bd726cf514d554f868219ea98cd9c6, type: 3}
+  - {fileID: 21300000, guid: 8a3d282d98f3b644d940ec998a413598, type: 3}
+  - {fileID: 21300000, guid: ace5d86db6c69604aade4850fd1c1328, type: 3}
+  - {fileID: 21300000, guid: 2337b46f2113d854aa3cc264e2116ec4, type: 3}
+  - {fileID: 21300000, guid: e23edcdf40c058841b96377e18039ee9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - escrement
+  - fleur 2
+  - car
+  - central
+  - tank
+  - "mouton teub\xE9"
+  - maison
+  - arbre
+  - pyramide
+  - camion
+  - carotte
+  - immeuble
+  - tomate
+  - poubelle
+  - abre mort
+  - "barri\xE8res"
+  - fumee
+  - sphynx
+  - buisson
+  m_RenderDataMap: {}
+  m_Tag: Decors
+  m_IsVariant: 0

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CutePlayer
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 3
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e026556402c81e24ab0a575b1ee6f62d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 61449090ac9b25946b79ef6cf4e90d01, type: 3}
+  - {fileID: 21300000, guid: 8a577b51eb3c84c43bd660b9a9ec2653, type: 3}
+  - {fileID: 21300000, guid: 92c89553758367247a11f5583a220758, type: 3}
+  - {fileID: 21300000, guid: 8df72277951e7494cb996e5f887d80c0, type: 3}
+  - {fileID: 21300000, guid: 0d71e25b263d7714ab96d25d209ed895, type: 3}
+  - {fileID: 21300000, guid: 3095f8cdf38760043acd857158083328, type: 3}
+  - {fileID: 21300000, guid: aff7763e63368ef41a284a278217b0a2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - arm_cute
+  - foot_cute
+  - face5_cute
+  - face2_cute
+  - face4_cute
+  - face3_cute
+  - face1_cute
+  m_RenderDataMap: {}
+  m_Tag: CutePlayer
+  m_IsVariant: 0
